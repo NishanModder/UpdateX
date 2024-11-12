@@ -1,0 +1,14 @@
+{
+    "Visibility": "VISIBLE",
+    "Version": "1.2.3",
+    "LogoLink": "https://example.com/logo.png",
+    "Description": "A new update is available!",
+    "Title": "Update Available",
+    "MainTextButton": "Update Now",
+    "CancelButtonText": "Later",
+    "DownloadLink": "https://example.com/download.apk",
+    "Cancelable": "true",
+    "BackgroundColor": "#FFFFFF",
+    "TextColor": "#000000",
+    "ButtonColor": "#6200EE"
+}
